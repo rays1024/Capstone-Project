@@ -1,2 +1,3 @@
-# Capstone-Project
-Advanced Applied Machine Learning Capstone Project
+# Convolutional Neural Networks Classification of Lung Tissue Images 
+## Introduction
+The Convolutional Neural Networks
