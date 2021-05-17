@@ -1,8 +1,13 @@
 # Convolutional Neural Networks Classification of Lung Tissue Images 
 ## Introduction
 ### Lung Tumors
-A lung tumor is a tumor that occurs in the lung tissue itself or in the airways that lead to the lungs. Lung tumors can be either cancerous (malignant) or benign (non-cancerous). Benign tumors are not cancerous, so they will not spread to other parts of the body. They grow slowly, or might even stop growing or shrink, and they are usually not life-threatening and do not need to be removed. For cancerous tumors, there are two main types, and the one we will focus on are non-small cell lung cancer (NSCLC).
+A lung tumor is a tumor that occurs in the lung tissue itself or in the airways that lead to the lungs. Lung tumors can be either cancerous (malignant) or benign (non-cancerous). Benign tumors are not cancerous, so they will not spread to other parts of the body. They grow slowly, or might even stop growing or shrink, and they are usually not life-threatening and do not need to be removed. 
 
+- **Benign**
+
+  ![lungn40](https://user-images.githubusercontent.com/73894812/118424545-6bce5a00-b695-11eb-9235-7d1dcd5f32e9.jpeg)
+
+For cancerous tumors, there are two main types, and the one we will focus on are non-small cell lung cancer (NSCLC).
 About 80% to 85% of lung cancers are NSCLC. The main subtypes of NSCLC are adenocarcinoma, squamous cell carcinoma, and large cell carcinoma. These subtypes, which start from different types of lung cells are grouped together as NSCLC because their treatment and prognoses (outlook) are often similar. The two subtypes of NSCLC we will focus on are adenocarcinoma and squamous cell carcinoma.
 - **Adenocarcinoma**
 
