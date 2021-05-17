@@ -158,6 +158,7 @@ model.evaluate(test)
 ```
 
 5/5 [==============================] - 5s 891ms/step - loss: 0.2524 - categorical_accuracy: 0.8981
+
 [0.2523741126060486, 0.8981481194496155]
 
 ### ResNet50
@@ -170,6 +171,7 @@ model.evaluate(test)
 ```
 
 5/5 [==============================] - 5s 912ms/step - loss: 0.7891 - categorical_accuracy: 0.6185
+
 [0.7890522480010986, 0.6185185313224792]
 
 ### ResNet50V2
@@ -182,6 +184,7 @@ model.evaluate(test)
 ```
 
 5/5 [==============================] - 5s 901ms/step - loss: 0.3052 - categorical_accuracy: 0.8833
+
 [0.30521562695503235, 0.8833333253860474]
 
 ### VGG16
@@ -195,7 +198,14 @@ model.evaluate(test)
 
 model.evaluate(test)
 5/5 [==============================] - 5s 1s/step - loss: 0.3549 - categorical_accuracy: 0.8648
+
 [0.3548664152622223, 0.864814817905426]
 
+### Ranking 
+1. DenseNet169--89.81%
+2. ResNet50--88.33%
+3. VGG16--86.48%
+4. ResNet5--61.85%
 
-
+## Conclusion
+In this project, we investigate the classification performance of four CNN models: DenseNet169, ResNet50, ResNet50V2, and VGG16. Out of these four, DenseNet169 had the best performance of achieving an 89.81% accuracy. ResNet50V2 and VGG16 also yield comparable results of 88.33% and 86.48%. Surprisingly, ResNet50 reached an accuracy of only 61.85%. The application of highly accurate CNNs in clinical medicine could improve the diagnosing accuracy and reliability and shorten the diagnosing time. However, since CNNs work like a gray box, the ethnical delimma of relying on machines for making diagnosis would have to be discussed before using it on a greater scale.
