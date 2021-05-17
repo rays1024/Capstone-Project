@@ -19,4 +19,13 @@ About 80% to 85% of lung cancers are NSCLC. The main subtypes of NSCLC are adeno
   Squamous cell carcinomas start in squamous cells, which are flat cells that line the inside of the airways in the lungs. They are often linked to a history of    smoking and tend to be found in the central part of the lungs, near a main airway (bronchus).
 
 ### Histopathology
-Histopathology refers to the microscopic examination of tissue in order to study the manifestations of disease. Specifically, in clinical medicine, histopathology refers to the examination of a biopsy or surgical specimen by a pathologist, after the specimen has been processed and histological sections have been placed onto glass slides. In contrast, cytopathology examines free cells or tissue micro-fragments (as "cell blocks").
+Histopathology refers to the microscopic examination of tissue in order to study the manifestations of disease. Specifically, in clinical medicine, histopathology refers to the examination of a biopsy or surgical specimen by a pathologist, after the specimen has been processed and histological sections have been placed onto glass slides. The [histopathological image dataset](https://www.kaggle.com/andrewmvd/lung-and-colon-cancer-histopathological-images) we will use is created by [Andrew A. Borkowski et al](https://arxiv.org/abs/1912.12142v1) (2019).
+
+### Convolutional Neural Networks
+In recent years, neural networks have become one of the best-performing artificial-intelligence systems in many fields. neural networks combine many nonlinear functions to model the complicated relationship between input features and output labels. They are applied in areas such as computer vision, speech recognition, natural language processing, character recognition, signature verification, and many others. With the utilization of large data sets and high computing power, neural networks can adapt to varying conditions and have demonstrated high accuracy in various tasks. The convolutional neural networks (CNNs) are primarily used in image processing and recognition. The convolutional layer, the pooling layer, and the fully connected layer are three basic building blocks of CNNs.
+
+
+
+
+
+
